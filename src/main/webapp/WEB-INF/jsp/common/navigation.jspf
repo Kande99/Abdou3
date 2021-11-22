@@ -1,0 +1,8 @@
+<a href="/login" class="brand">Go back to login page</a>
+	<ul>
+		<li> <a href="#">Home</a></li>
+		<li><a href="/list-scooter">Scooters</a></li>
+		<li><a href="https://www.sarayatechsolutions.com">SarayaTech</a></li>
+		<li><a href="logout-scooter">Logout</a></li>
+	</ul>
+	
